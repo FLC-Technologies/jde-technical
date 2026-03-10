@@ -152,3 +152,39 @@ Deliverable:
 ```bash
 app/dashboard.py
 ```
+
+### Repository Structure
+
+Your repository should look as follows:
+
+```bash
+data-engineer-test/
+│
+├── data/
+│   ├── customers.csv
+│   ├── products.csv
+│   └── orders.csv
+│
+├── notebooks/
+│   └── data_exploration.ipynb
+│
+├── src/
+│   ├── clean_data.py
+│   └── load_data.py
+│
+├── sql/
+│   ├── schema.sql
+│   └── analysis_queries.sql
+│
+├── docs/
+│   └── data_model.png
+│
+├── output/
+│   ├── customer_sales.csv
+│   └── product_sales.csv
+│
+├── app/
+│   └── dashboard.py
+│
+└── README.md
+```
