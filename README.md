@@ -1,6 +1,20 @@
 # **Junior Data Engineer: Take-Home Assignment**
-*Due Date: 20th March*
+
 ## Overview
+
+*Due Date: 20th March*
+
+Time Expectation
+
+Expected completion time:
+
+3 - 5 hours
+
+Please do not spend more than 5 hours.
+
+Submit by sharing your GitHub repository link
+
+## Objectives
 
 You will build a small data pipeline and analytics dataset using Python and SQL.
 
@@ -30,8 +44,8 @@ git checkout -b jde-technical
 3. Install dependencies if required
 
 ## **Provided Data**
-You will recive 3 datasets:
-### > a. farmers.csv
+You will recive 4 datasets:
+### > a. customer.csv
 ### > b. products.csv
 ### > c. orders.csv
 ### > d. order_items.csv
@@ -58,6 +72,8 @@ Document:
 
 > Data type problems
 
+> Assumptions and justify your decisions
+
 Deliverable:
 
 ```bash
@@ -73,6 +89,8 @@ Write a Python script that:
 > Fixes data issues
 
 > Ensures consistent formats
+
+> Notes assumptions and describes functions
 
 Deliverable:
 
@@ -132,7 +150,25 @@ Deliverable:
 output/
 ```
 
-### *6. Visualization (Optional Bonus)*
+### *6. SQL Analysis*
+
+Write SQL queries to answer the following questions:
+
+> 1️⃣ Total revenue per customer
+
+> 2️⃣ Top 5 best-selling products
+
+> 3️⃣ Total sales by country
+
+> 4️⃣ Average order value
+
+Deliverable:
+```bash
+sql/analysis_queries.sql
+```
+
+
+### *7. Visualization (Optional Bonus)*
 
 Build a small dashboard showing:
 
@@ -140,7 +176,7 @@ Build a small dashboard showing:
 
 > Revenue by country
 
-> Top customers
+> Top customer
 
 Suggested tools:
 
@@ -163,7 +199,7 @@ Your repository should look as follows:
 jde-technical/
 │
 ├── data/
-│   ├── farmers.csv
+│   ├── customer.csv
 │   ├── products.csv
 │   ├── orders.csv
 │   └── order_items.csv
@@ -193,3 +229,14 @@ jde-technical/
 ```
 
 **File types and structure can vary as you see if. This is a guide on what is deliverable.**
+
+## **Evaluation Criteria**
+| Area               | What We Look For               |
+| ------------------ | ------------------------------ |
+| Git usage          | Clear commits and structure    |
+| Data understanding | Identification of problems     |
+| Data cleaning      | Logical transformations        |
+| Data modeling      | Correct relational design      |
+| SQL                | Correct joins and aggregations |
+| Code quality       | Readable, modular code         |
+| Documentation      | Clear explanations             |
