@@ -8,7 +8,15 @@ Time Expectation
 
 Expected approval timeline:
 
-48 hours from recieving GitHub access
+48 hours from recieving GitHub access.
+
+Expected completion time: 4–6 hours.
+
+Please do not spend more than 6 hours on this assignment. 
+We are not expecting a perfect production system — we are more interested in your thinking, data reasoning, and code structure.
+
+You may use any tools or libraries you are comfortable with. 
+If you use AI tools (ChatGPT, Copilot, etc.), please note where they assisted you.
 
 Submit by sharing your GitHub repository link
 
@@ -30,7 +38,15 @@ The goal of this exercise is to evaluate your ability to:
 
 > Present data insights
 
-**Please commit your work regularly to show your development process. Upon completion, replace this README file with your own.**
+**Please commit your work regularly to show your development process.**
+
+Include a section in your README explaining:
+
+> • Assumptions you made
+
+> • Data issues you identified
+
+> • Decisions you made during cleaning
 
 ## **Setup**
 
@@ -41,7 +57,7 @@ git checkout -b jde-technical
 ```
 
 ## **Provided Data**
-You will recive 4 datasets:
+You will receive 4 datasets:
 ### > a. customer.csv
 ### > b. products.csv
 ### > c. orders.csv
@@ -97,7 +113,7 @@ src/clean_data.py
 
 ### *3. Data Modeling*
 
-Design a normalized rational schema for this data. Include:
+Design a normalized relational schema for this data. Include:
 
 > Tables
 
@@ -224,6 +240,7 @@ jde-technical/
 │
 └── README.md
 ```
+**Include a requirements.txt file if dependencies are used.**
 
 **File types and structure can vary as you see fit. This is a guide on what is deliverable.**
 
