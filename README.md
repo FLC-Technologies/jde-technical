@@ -67,7 +67,9 @@ notebooks/data_exploration.ipynb
 Write a Python script that:
 
 > Cleans the datasets
+
 > Fixes data issues
+
 > Ensures consistent formats
 
 Deliverable:
