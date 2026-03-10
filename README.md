@@ -17,7 +17,7 @@ The goal of this exercise is to evaluate your ability to:
 
 > Present data insights
 
-**Please commit your work regularly to show your development process. Upon completion, replace this README your own description of the tasks completed:**
+**Please commit your work regularly to show your development process. Upon completion, replace this README file with your own.**
 
 ## **Setup**
 
