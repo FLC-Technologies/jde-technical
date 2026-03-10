@@ -13,7 +13,7 @@ Expected approval timeline:
 Expected completion time: 4–6 hours.
 
 Please do not spend more than 6 hours on this assignment. 
-We are not expecting a perfect production system — we are more interested in your thinking, data reasoning, and code structure.
+We are not expecting a perfect production system here, we are more interested in your thinking, data reasoning, and code structure.
 
 You may use any tools or libraries you are comfortable with. 
 If you use AI tools (ChatGPT, Copilot, etc.), please note where they assisted you.
