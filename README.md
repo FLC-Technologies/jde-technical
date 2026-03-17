@@ -18,7 +18,11 @@ We are not expecting a perfect production system here, we are more interested in
 You may use any tools or libraries you are comfortable with. 
 If you use AI tools (ChatGPT, Copilot, etc.), please note where they assisted you.
 
-Submit by sharing your GitHub repository link
+Submit this by:
+1. Cloning this repository (https://github.com/FLC-Technologies/jde-technical.git) as your stater repository
+2. Create a new private repository from this starter repository, complete the assignment there, and share access with us for review.
+3. Please make sure to share your GitHub repository link with us via email.
+4. NB: PLEASE DO NOT push your work back to the starter repository. 
 
 ## Objectives
 
@@ -38,7 +42,7 @@ The goal of this exercise is to evaluate your ability to:
 
 > Present data insights
 
-**Please commit your work regularly to show your development process.**
+**Please commit your work regularly to the new repository to show your development process.**
 
 Include a section in your README explaining:
 
@@ -49,6 +53,18 @@ Include a section in your README explaining:
 > • Decisions you made during cleaning
 
 ## **Setup**
+
+Either:
+
+1. Clone this repository (https://github.com/FLC-Technologies/jde-technical.git) as your stater repository
+
+2. Create a new private repository from this starter repository, complete the assignment there, and share access with us for review.
+
+3. Please make sure to share your GitHub repository link with us via email.
+
+4. NB: PLEASE DO NOT push your work back to the starter repository.
+
+Or:
 
 1. Clone or fork this repository provided.
 2. Create a new branch:
