@@ -34,6 +34,8 @@ Share access to the repository with us (sean@farmlinkcapital.co.za, devstack@far
 
 Email us your GitHub repository link once complete (sean@farmlinkcapital.co.za, devstack@farmlinkcapital.co.za).
 
+Any tech stack and languages may be used, although, please specify your choices and reasoning.
+
 Important: Please do not push your work back to the starter repository.
 
 ## Objectives
@@ -220,7 +222,7 @@ app/dashboard.py
 
 ### Repository Structure
 
-Your repository should look as follows:
+Your repository should have a structure similar to the following:
 
 ```bash
 jde-technical/
