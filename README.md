@@ -111,7 +111,7 @@ notebooks/data_exploration.ipynb
 
 ### *2. Clean the Data*
 
-Write a Python script that:
+Write a script that:
 
 > Cleans the datasets
 
@@ -145,7 +145,7 @@ Deliverables:
 2️⃣ SQL schema
 > sql/schema.sql
 
-### *4. Load the Data*
+### *4. Load the Data* (Optional)
 
 Write a script that loads the cleaned data into a database.
 
